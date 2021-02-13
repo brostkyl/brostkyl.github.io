@@ -21,11 +21,11 @@ img {
 h2 {
     color:#e36a4f;
     font-family: 'Montserrat', sans-serif;
-    font-weight: regular;
+    font-weight: 400;
 }
 p, ul {
     font-family: 'Montserrat', sans-serif;
-    font-weight: regular;
+    font-weight: 400;
 }
 .column {
     float: left;
