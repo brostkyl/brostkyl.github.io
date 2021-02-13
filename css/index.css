@@ -8,7 +8,7 @@ h1 {
     padding: 40px;
     color: #e2d8a2;
     font-family: 'Montserrat', sans-serif;
-    font-weight: semi-bold;
+    font-weight: 600;
 }
 section {
     margin:30px 100px 30px 100px;
@@ -25,7 +25,7 @@ h2 {
 }
 p, ul {
     font-family: 'Montserrat', sans-serif;
-    font-weight: extra-light;
+    font-weight: regular;
 }
 .column {
     float: left;
