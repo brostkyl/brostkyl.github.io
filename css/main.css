@@ -57,3 +57,8 @@ footer p {
 footer p strong {
     font-size: 10px;
 }
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size: 1em;
+    }
+}
