@@ -1,0 +1,32 @@
+@media only screen and (min-width: 32.5em) {
+    nav ul  {
+            display: flex;
+        }
+    nav ul li {
+            flex: 1 1 100%;
+            display: block;
+        }
+    main{
+        margin: 0px 60px 0px 60px;
+    }
+    footer {
+        margin: 0px 60px 0px 60px;
+    }
+    .logo {
+        max-width: 120px;
+    }
+    .headings h1 {
+        font-size: 3rem;
+    }
+    .m {
+        letter-spacing: 1.5pt;
+        font-size: larger;
+        margin-left: 20px;
+    }
+    .navigation li:first-child {
+        display: none;
+    }
+    .navigation li {
+        display: block;
+    }
+}
